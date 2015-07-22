@@ -32,7 +32,7 @@ The frameworks will get built into `Carthage/Build/Platform/Framework.framework`
 
     app.carts = ['Framework']
 
-Run `rake` and let motion-carthage take care of everything else for you.
+Run `rake` and let motion-carthage take care of everything else for you. Check out this [demo project](https://github.com/digitalfx/CartTest) for a working example.
 
 ## Contributing
 

@@ -24,11 +24,11 @@ Create a Cartfile at the root of your project containing your project dependenci
 
     github "User/Framework"
 
-Fetch and install these via the carthage command:
+Fetch and install with the carthage command:
 
     carthage update
 
-These frameworks will be built into `Carthage/Build/Platform/Framework.framework`. To add this to your RubyMotion project, add this to your RakeFile:
+The frameworks will get built into `Carthage/Build/Platform/Framework.framework`. To embed them in your RubyMotion project, add the following line to your RakeFile:
 
     app.carts = ['Framework']
 

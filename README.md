@@ -1,6 +1,6 @@
 # motion-carthage
 
-Carthage support for RubyMotion
+[Carthage](https://github.com/Carthage/Carthage) support for RubyMotion
 
 Primarily this implements `carthage copy-frameworks` properly for iOS device builds, however it will also embed the fat binaries for simulator builds as well as OS X projects.
 

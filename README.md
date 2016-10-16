@@ -12,7 +12,7 @@ Install Carthage using Homebrew:
 
 Add this line to your application's Gemfile:
 
-    gem 'motion-carthage', github: 'digitalfx/motion-carthage'
+    gem 'motion-carthage', github: 'pixlwave/motion-carthage'
 
 And then execute:
 
